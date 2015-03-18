@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python3
+Module=condensenewlines
+IAge=3
+Name=Condense Newlines
+Description=Condenses Newlines to maximum two subsequent.
+Authors=Bernhard Schuster <yummi@ratpoison.io>
+Copyright=Copyright (c) 2015 Bernhard Schuster <yummi@ratpoison.io>
+Website=https://ratpoison.io
